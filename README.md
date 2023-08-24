@@ -1,5 +1,5 @@
-# CVIP_DataScience_ExploratoryDataAnalysis-Terrorism
+# CVIP_DataScience
 # Coders Cave
 # Intership Task 1(Normal Task)
-# Exploratory Data Analysis-Terrorism
+# Exploratory Data Analysis-Terrorism(Normal Tassk)
 # Dataset: Global Terrorism(from Kaggle)
