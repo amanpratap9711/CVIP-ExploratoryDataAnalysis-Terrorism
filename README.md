@@ -1,7 +1,11 @@
 # CVIP_DataScience
 # Coders Cave
-# Intership Phase-1(Normal Task)
-#Exploratory Data Analysis-Terrorism(Normal Tassk)
+# Intership Phase-1 Projects
+
+#Exploratory Data Analysis-Terrorism(Normal Task)
+
 #Dataset: Global Terrorism(from Kaggle)
+
 #Breast Cancer Prediction(Golden Task)
+
 #Dataset: Breast Cancer Wisconin(Diagnostic) Data Set(from Kaggle)
