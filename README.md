@@ -8,3 +8,9 @@
 #Breast Cancer Prediction(Golden Task)
 
 #Dataset: Breast Cancer Wisconin(Diagnostic) Data Set(from Kaggle)
+
+# Phase-2 Projects
+
+#Email Spam Detection(Normal Task)
+
+#Dataset: Email Spam Classification Dataset(from Kaggle)
