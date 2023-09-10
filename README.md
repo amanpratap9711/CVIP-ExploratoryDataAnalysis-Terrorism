@@ -14,3 +14,7 @@
 #Email Spam Detection(Normal Task)
 
 #Dataset: Email Spam Classification Dataset(from Kaggle)
+
+#Speech Emotion Recognition(Golden Task)
+
+#Dataset: Speech Emotion Recognition(en) (from Kaggle)
